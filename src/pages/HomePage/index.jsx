@@ -27,7 +27,7 @@ export const HomePage = () => {
         </div>
       </div>
       
-      <h2>Kandidátí</h2>
+      <h2>Kandidáti</h2>
       <div className="candidate-list">
         {candidates.map((c) => (
           <Candidate 
